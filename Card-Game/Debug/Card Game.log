@@ -1,0 +1,3 @@
+﻿  GoFish.cpp
+C:\Users\Connor\source\repos\Card Game\GoFish.cpp(105,29): warning C4018: '<': signed/unsigned mismatch
+  Card Game.vcxproj -> C:\Users\Connor\source\repos\Card Game\Debug\Card Game.exe

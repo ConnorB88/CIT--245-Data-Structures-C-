@@ -1,0 +1,4 @@
+C:\Users\Connor\source\repos\Card Game\Debug\Card Game.exe
+C:\Users\Connor\source\repos\Card Game\Debug\Card Game.pdb
+C:\Users\Connor\Source\Repos\ConnorB88\CIT--245-Data-Structures-C-\Card Game\Debug\Card Game.exe
+C:\Users\Connor\Source\Repos\ConnorB88\CIT--245-Data-Structures-C-\Card Game\Debug\Card Game.pdb
