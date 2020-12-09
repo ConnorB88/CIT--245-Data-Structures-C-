@@ -1,0 +1,4 @@
+﻿  eulxer.cpp
+C:\Users\Connor\source\repos\CIT-245\eulxer.cpp(14,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'double *'
+C:\Users\Connor\source\repos\CIT-245\eulxer.cpp(15,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'double **'
+  CIT-245.vcxproj -> C:\Users\Connor\source\repos\CIT-245\Debug\CIT-245.exe
